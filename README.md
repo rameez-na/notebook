@@ -16,10 +16,10 @@ Jupyter notebook is a language-agnostic HTML notebook application for
 Project Jupyter. In 2015, Jupyter notebook was released as a part of
 The Big Split™ of the IPython codebase. IPython 3 was the last major monolithic
 release containing both language-agnostic code, such as the *IPython notebook*,
-and language specific code, such as the *IPython kernel for Python*. As
+and language-specific code, such as the *IPython kernel for Python*. As
 computing spans across many languages, Project Jupyter will continue to develop the
 language-agnostic **Jupyter notebook** in this repo and with the help of the
-community develop language specific kernels which are found in their own
+community develop language-specific kernels which are found in their
 discrete repos.
 [[The Big Split™ announcement](https://blog.jupyter.org/the-big-split-9d7b88a031a7)]
 [[Jupyter Ascending blog post](https://blog.jupyter.org/jupyter-ascending-1bf5b362d97e)]
@@ -45,7 +45,7 @@ Launch with:
 
 ### Running in a remote installation
 
-You need some configuration before starting Jupyter notebook remotely. See [Running a notebook server](https://jupyter-notebook.readthedocs.io/en/stable/public_server.html).
+You need some configuration before starting the Jupyter notebook remotely. See [Running a notebook server](https://jupyter-notebook.readthedocs.io/en/stable/public_server.html).
 
 ## Development Installation
 
